@@ -39,6 +39,7 @@ Based on the weather data gathered, it would be a good idea to open a surf shop 
 It would also be a good idea to look at precipation levels to provide more information because lots of rain may keep people from visiting the island
 
 ![june_p](https://user-images.githubusercontent.com/81889167/121787174-a04d0d00-cb92-11eb-81fe-04f57258e2d9.png)
+
 ![dec_p](https://user-images.githubusercontent.com/81889167/121787176-a17e3a00-cb92-11eb-9f88-242f51fdd8a4.png)
 
 By looking at the statistical precipitation data from June and December, we can see that there are very small amounts of rainfall during these months. However, there are occasions where there is much more precipation than the average but not enough that it would keep visitors away.
